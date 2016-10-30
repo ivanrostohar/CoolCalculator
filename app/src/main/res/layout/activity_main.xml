@@ -203,7 +203,8 @@
                 android:layout_width="70dp"
                 android:textSize="30sp"
                 android:background="@color/colorAccent"
-                android:layout_gravity="center" />
+                android:layout_gravity="center"
+                android:textColor="@color/colorPrimary" />
 
             <Button
                 android:text="0"
